@@ -1,12 +1,9 @@
 import React from 'react'
-import {
-  Header,
-} from './Components'
 
 const App = () => { 
   return (
     <>
-      <Header />
+      <h1>Project 01: my-react-app</h1>
     </>
   )
  }

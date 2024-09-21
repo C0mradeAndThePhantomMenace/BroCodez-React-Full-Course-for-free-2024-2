@@ -30,8 +30,11 @@ https://github.com/C0mradeAndThePhantomMenace/BroCodez-React-Full-Course-for-fre
 
 https://stunning-memory-5gp5rpgqx6phvvxq.github.dev/
 
+**Snippets**
 
-## Project
+https://github.com/r5n-labs/vscode-react-javascript-snippets/blob/master/docs/Snippets.md
+
+## Projects
 
 ### npm create appName
 
